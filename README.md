@@ -22,6 +22,6 @@ Used Tools and Techniques:
 
 This project has equipped me with skills that I believe will be invaluable in future endeavors. Cheers to more data-driven journeys ahead! 🚀📊
 
-<img src="https://github.com/basudeb24/Categorical-Sales-Dashboard/assets/43643452/8935b04e-cd1e-45d8-bd1a-2d790efd2c36" width="200"/>  <img src="https://github.com/basudeb24/Categorical-Sales-Dashboard/assets/43643452/7053e1b8-ffd6-4019-bffc-aaa332028d79" width="200"/>
+<img src="https://github.com/basudeb24/Categorical-Sales-Dashboard/assets/43643452/8935b04e-cd1e-45d8-bd1a-2d790efd2c36" width="800"/>  <img src="https://github.com/basudeb24/Categorical-Sales-Dashboard/assets/43643452/7053e1b8-ffd6-4019-bffc-aaa332028d79" width="800"/>
 
 
