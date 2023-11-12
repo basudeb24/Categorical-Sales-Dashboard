@@ -1,5 +1,4 @@
 # Categorical-Sales-Dashboard
-
 An interactive sales dashboard! 🚀
 
 Excited to share my very first Power BI project—an interactive sales dashboard! 🚀
