@@ -1,5 +1,7 @@
 # Categorical-Sales-Dashboard
 
+An interactive sales dashboard! 🚀
+
 Excited to share my very first Power BI project—an interactive sales dashboard! 🚀
 
 With the guidance of an engaging YouTube tutorial by Rishabh Mishra, I've delved into the world of data analysis and visualization. 📈 The tutorial was remarkably comprehensive, making it easy to grasp even the most intricate tools and techniques.
