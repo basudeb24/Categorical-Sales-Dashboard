@@ -5,9 +5,13 @@ Excited to share my very first Power BI project—an interactive sales dashboard
 With the guidance of an engaging YouTube tutorial by Rishabh Mishra, I've delved into the world of data analysis and visualization. 📈 The tutorial was remarkably comprehensive, making it easy to grasp even the most intricate tools and techniques.
 
 Key Insights:
+
 📊 Data-Driven Decision Making: Empowering our company with informed choices.
+
 📈 Boosted Sales: Identifying areas for performance enhancement.
+
 📉 Optimal Inventory Management: Keeping stock levels in check.
+
 🛍️ Enhanced Customer Experience: Tailoring offerings to preferences.
 💰 Increased Revenue: Discovering sales opportunities for maximum profit.
 🔍 Actionable Insights: Transforming raw data into strategic actions.
